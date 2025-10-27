@@ -14,17 +14,17 @@ import CustomCursor from './components/CustomCursor'
 const App = () => {
   return (
     <div className='relative gradient text-white' >
-      <CustomCursor/>
-      <ParticlesBackground/>
-      <NavBar/>
-      <Home/>
-      <About/>
-      <Skills/>
-      <Projects/>
-      <Experience/>
-      <Testimonials/>
-      <Contact/>
-      <Footer/>
+      <CustomCursor />
+      <ParticlesBackground />
+      <NavBar />
+      <Home />
+      <About />
+      <Skills />
+      <Projects />
+      <Experience />
+      <Testimonials />
+      <Contact />
+      <Footer />
       
       
     </div>

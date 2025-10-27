@@ -80,7 +80,7 @@ window.removeEventListener("resize", handleResize);
 }
 
 
-  },[]);
+  }, []);
 
   return (
     <canvas
